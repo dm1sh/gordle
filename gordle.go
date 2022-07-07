@@ -32,7 +32,7 @@ func main() {
 
 	fmt.Println("Welcome to Gordle - go implementation of Wordle game")
 
-	file, err := os.Open(fmt.Sprintf("./dictionary/%d.txt", nChar+1))
+	file, err := os.Open(fmt.Sprintf("./dictionary/%d.txt", nChar))
 
 	if err != nil {
 		log.Fatal("There is no dictionary with such amount of letters")
