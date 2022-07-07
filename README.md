@@ -20,6 +20,12 @@ Usage of ./gordle:
         Word size (default 5)
 ```
 
+## Testing instructions
+
+```bash
+go test # [-cover]
+```
+
 ## Dictionaries
 
 To run game you also need dictionary files. By default gordle searches for them in `./dictionary/<n>.txt` file, where `<n>` - number of characters, specified by `-n` flag
