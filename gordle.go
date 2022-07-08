@@ -26,13 +26,17 @@ func main() {
 	containsOutput := color.New(color.BgYellow, color.FgBlack)
 	wrongOutput := color.New(color.BgWhite, color.FgBlack)
 
-	var nFlag = flag.Int("n", 5, "Word size")
+	nFlag := flag.Int("n", 5, "Word size")
+	fFlag := flag.String("f", "./dictionary/5.txt", "Path to dictionary file with words of length -n. If specified, -n must be specified too (if the latter must not be equal to default value")
+
 	flag.Parse()
-	nChar := *nFlag
 
 	fmt.Println("Welcome to Gordle - go implementation of Wordle game")
 
-	file, err := os.Open(fmt.Sprintf("./dictionary/%d.txt", nChar))
+	nChar := *nFlag
+	filePath := *fFlag
+
+	file, err := os.Open(filePath)
 
 	if err != nil {
 		log.Fatal("There is no dictionary with such amount of letters")
@@ -46,6 +50,10 @@ func main() {
 
 	for scanner.Scan() {
 		words = append(words, scanner.Text())
+	}
+
+	if len(words[0]) != nChar {
+		log.Fatal("Words in dictionary must be of size", nChar)
 	}
 
 	fmt.Printf("You are going to guess a %d letter word in %d tries from %d dictionary\n", nChar, nChar+1, len(words))
