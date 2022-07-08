@@ -108,6 +108,8 @@ hepaticoduodenostomy
 heterochromatization
 heteropolysaccharide
 hexosemonophosphoric
+histomorphologically
+homeotransplantation
 hydrodesulfurization
 hydrometallurgically
 hydrotherapeutically
@@ -124,8 +126,6 @@ hyperspeculativeness
 hypersuggestibleness
 hypsibrachycephalism
 hypsidolichocephalic
-histomorphologically
-homeotransplantation
 incomprehensibleness
 incontrovertibleness
 indigotindisulphonic
@@ -146,8 +146,8 @@ keratoconjunctivitis
 labioglossolaryngeal
 labyrinthibranchiate
 laparocholecystotomy
-lymphogranulomatosis
 lithochromatographic
+lymphogranulomatosis
 magnetofluiddynamics
 magnetofluidmechanic
 magnetohydrodynamics
@@ -239,11 +239,6 @@ phenyldiethanolamine
 philodestructiveness
 philoprogenitiveness
 philosophicojuristic
-physicophilosophical
-physicophysiological
-physiologicoanatomic
-physiopathologically
-phytopaleontological
 phlebarteriodialysis
 phoneticogrammatical
 photoautotrophically
@@ -251,10 +246,12 @@ photochronographical
 photophosphorylation
 photospectroscopical
 phototelegraphically
+physicophilosophical
+physicophysiological
+physiologicoanatomic
+physiopathologically
+phytopaleontological
 piezocrystallization
-pylethrombophlebitis
-pyopneumopericardium
-pyopneumoperitonitis
 platybrachycephalous
 platydolichocephalic
 plethysmographically
@@ -292,6 +289,9 @@ pseudosacrilegiously
 pseudoscholastically
 pseudoscientifically
 psychopathologically
+pylethrombophlebitis
+pyopneumopericardium
+pyopneumoperitonitis
 radiotelegraphically
 reticulatocoalescent
 roentgenographically
@@ -303,7 +303,6 @@ semibureaucratically
 semicapitalistically
 semiprofessionalized
 semisupernaturalness
-syncategorematically
 spectromicroscopical
 spectrophotoelectric
 spectrophotometrical
@@ -324,6 +323,7 @@ superresponsibleness
 superserviceableness
 supersuperabundantly
 superultrafrostified
+syncategorematically
 teleoroentgenography
 tetrahydrocannabinol
 theoanthropomorphism
@@ -331,12 +331,12 @@ theologicohistorical
 thermophosphorescent
 thermopolymerization
 thoracogastroschisis
-tychoparthenogenesis
 transubstantiatively
 tribophosphorescence
 tribromoacetaldehyde
 trihemitetartemorion
 turbinatocylindrical
+tychoparthenogenesis
 ultradolichocephalic
 ultramicroscopically
 ultraphotomicrograph

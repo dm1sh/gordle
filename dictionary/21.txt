@@ -28,7 +28,6 @@ choledochoenterostomy
 choledocholithotripsy
 chromophotolithograph
 cineangiocardiography
-cytospectrophotometry
 clinicopathologically
 constitutionalization
 counterclassification
@@ -39,6 +38,7 @@ counterpronunciamento
 counterreconnaissance
 cryptocrystallization
 crystalloluminescence
+cytospectrophotometry
 dacryocystorhinostomy
 dehydrocorticosterone
 deintellectualization
@@ -61,6 +61,9 @@ glossolabiopharyngeal
 hepaticoenterostomies
 heterotransplantation
 hexachlorocyclohexane
+historicogeographical
+historicophilosophica
+humuhumunukunukuapuaa
 hydrodesulphurization
 hydroxycorticosterone
 hyperconservativeness
@@ -69,9 +72,6 @@ hyperenthusiastically
 hyperintellectualness
 hyperpolysyllabically
 hypsidolichocephalism
-historicogeographical
-historicophilosophica
-humuhumunukunukuapuaa
 immunoelectrophoresis
 immunoelectrophoretic
 indistinguishableness
@@ -113,8 +113,8 @@ pancreatoduodenectomy
 parathyroidectomizing
 pathologicoanatomical
 pentamethylenediamine
-pharyngoepiglottidean
 pharmacoendocrinology
+pharyngoepiglottidean
 phenylethylmalonylure
 philosophicoreligious
 phoneticohieroglyphic

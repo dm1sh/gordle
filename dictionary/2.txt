@@ -7,7 +7,6 @@ af
 ag
 ah
 ai
-ay
 ak
 al
 am
@@ -21,6 +20,7 @@ at
 av
 aw
 ax
+ay
 az
 ba
 bb
@@ -29,7 +29,6 @@ be
 bf
 bg
 bi
-by
 bk
 bl
 bm
@@ -42,6 +41,7 @@ bt
 bu
 bv
 bx
+by
 bz
 ca
 cb
@@ -51,7 +51,6 @@ ce
 cf
 cg
 ch
-cy
 ck
 cl
 cm
@@ -63,6 +62,7 @@ cs
 ct
 cu
 cv
+cy
 da
 db
 dc
@@ -70,7 +70,6 @@ dd
 de
 dg
 di
-dy
 dj
 dk
 dl
@@ -83,6 +82,7 @@ ds
 dt
 du
 dx
+dy
 dz
 ea
 ec
@@ -91,7 +91,6 @@ ee
 ef
 eg
 eh
-ey
 el
 em
 en
@@ -104,6 +103,7 @@ et
 eu
 ew
 ex
+ey
 fa
 fb
 fc
@@ -111,7 +111,6 @@ fe
 ff
 fg
 fi
-fy
 fl
 fm
 fn
@@ -123,6 +122,7 @@ ft
 fu
 fv
 fw
+fy
 fz
 ga
 gd
@@ -145,7 +145,6 @@ he
 hf
 hg
 hi
-hy
 hl
 hm
 ho
@@ -157,32 +156,23 @@ ht
 hu
 hv
 hw
+hy
 ia
-ya
 ib
 ic
 id
-yd
 ie
-ye
 if
 ii
-yi
 ik
 il
 im
-ym
 in
-yn
 io
-yo
 iq
 ir
-yr
 is
-ys
 it
-yt
 iv
 iw
 ix
@@ -199,7 +189,6 @@ kb
 kc
 kg
 ki
-ky
 kl
 km
 kn
@@ -208,6 +197,7 @@ kr
 kt
 kv
 kw
+ky
 la
 lb
 lc
@@ -217,7 +207,6 @@ lf
 lg
 lh
 li
-ly
 ll
 lm
 ln
@@ -229,6 +218,7 @@ lt
 lu
 lv
 lx
+ly
 ma
 mb
 mc
@@ -238,7 +228,6 @@ mf
 mg
 mh
 mi
-my
 mk
 ml
 mm
@@ -251,13 +240,13 @@ mt
 mu
 mv
 mw
+my
 na
 nb
 nd
 ne
 ng
 ni
-ny
 nj
 nl
 nm
@@ -268,6 +257,7 @@ ns
 nt
 nu
 nv
+ny
 ob
 oc
 od
@@ -275,7 +265,6 @@ oe
 of
 og
 oh
-oy
 ok
 ol
 om
@@ -286,6 +275,7 @@ os
 ot
 ow
 ox
+oy
 oz
 pa
 pc
@@ -307,7 +297,6 @@ pt
 pu
 qe
 qh
-qy
 ql
 qm
 qn
@@ -317,6 +306,7 @@ qs
 qt
 qu
 qv
+qy
 ra
 rc
 rd
@@ -404,7 +394,6 @@ wf
 wg
 wh
 wi
-wy
 wk
 wl
 wm
@@ -413,6 +402,7 @@ wr
 ws
 wt
 wu
+wy
 xc
 xd
 xi
@@ -421,6 +411,16 @@ xs
 xu
 xw
 xx
+ya
+yd
+ye
+yi
+ym
+yn
+yo
+yr
+ys
+yt
 za
 zn
 zo
